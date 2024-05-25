@@ -1,0 +1,7 @@
+{
+  "algae": "Algas",
+  "gmcm.days_until_algae_spawn.title": "Dias hasta la aparicion de algas",
+  "gmcm.days_until_algae_spawn.desc": "El numero de dias hasta que un estanque vacio empieze a generar algas.",
+  "gmcm.roe_production_chance_multiplier.title": "Multiplicar la chance de produccion de huevas",
+  "gmcm.roe_production_chance_multiplier.desc": "Multiplica la probabilidad base de los pesces de generar huevas cada dia."
+}
